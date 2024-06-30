@@ -85,11 +85,16 @@ To generate images using the Dream-like Diffusion model:
 Here are a few example prompts and their generated images:
 
 - **Prompt:** "A futuristic city skyline at sunset"
+
+  
   ![image1](https://github.com/RSN601KRI/ImageGenerationTool/assets/106860359/6efb0ffe-9fca-42c1-b670-671c969684c6)
 
 
 - **Prompt:** "A vibrant forest in autumn"
+
+  
   ![image2](https://github.com/RSN601KRI/ImageGenerationTool/assets/106860359/80905ff8-d692-4fec-83e4-17b73044d327)
+  
 
 ## License
 
